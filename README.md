@@ -11,7 +11,11 @@ More details here : https://youtu.be/rH5098J5fhw
 About The Files In This Repo
 ============================
 Tarot.pbix - the Power BI file with the report/dashboard
+
 Tarot_Project.xlsx - the source file for the said Power BI Report
+
 Extract_Card_Interpretations.ipynb - the Python Notebook used to webscrape the card meanings from www.BiddyTarot.com 
+
 Invert_Images.ipynb - the Python Notebook used to rotate the publicly available images from wikimedia by 180 degree to reflect the inverted tarot card readings
+
 All Inverted Images were stored in this GitHub repo to be easily referenced as web image urls by the PowerBI 
